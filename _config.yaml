@@ -1,0 +1,11 @@
+# _config.yaml
+title: Hani Alshikh Helm Charts
+description: A chart repo for all Hani Alshikh Helm Charts.
+theme: jekyll-theme-hacker
+url: "https://hanialshikh.github.io/charts/"
+repo_name: H-S
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - .gitignore
