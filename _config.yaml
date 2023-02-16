@@ -2,7 +2,7 @@
 title: Hani Alshikh Helm Charts
 description: A chart repo for all Hani Alshikh Helm Charts.
 theme: jekyll-theme-hacker
-url: "https://hanialshikh.github.io/charts/"
+url: "https://charts.alshikh.de"
 repo_name: H-S
 
 exclude:

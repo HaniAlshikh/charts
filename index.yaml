@@ -9,6 +9,6 @@ entries:
     name: monogui
     type: application
     urls:
-    - https://hanialshikh.github.io/charts/monogui-0.1.0-rc02.tgz
+    - https://charts.alshikh.de/monogui-0.1.0-rc02.tgz
     version: 0.1.0-rc02
 generated: "2023-02-14T21:48:11.646692423Z"
