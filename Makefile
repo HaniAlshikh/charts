@@ -8,7 +8,7 @@ export
 # helm
 
 helm-add-h-s:
-	@$(HELM) repo add H-S https://hanialshikh.github.io/charts/
+	@$(HELM) repo add H-S https://charts.alshikh.de
 	@$(HELM) repo update
 
 helm-lint:
