@@ -2,6 +2,16 @@ apiVersion: v1
 entries:
   monogui:
   - apiVersion: v2
+    appVersion: v0.1.0-rc06
+    created: "2023-02-24T23:36:18.319689653Z"
+    description: Monoskope GUI
+    digest: e53bdce8aa55fe959442c2c92228b27c72a60cc3fd67b8cac2223e70b2592c7c
+    name: monogui
+    type: application
+    urls:
+    - https://charts.alshikh.de/monogui-0.1.0-rc06.tgz
+    version: 0.1.0-rc06
+  - apiVersion: v2
     appVersion: v0.1.0-rc05
     created: "2023-02-17T19:16:45.542401189Z"
     description: Monoskope GUI
@@ -41,4 +51,4 @@ entries:
     urls:
     - https://charts.alshikh.de/monogui-0.1.0-rc02.tgz
     version: 0.1.0-rc02
-generated: "2023-02-17T19:16:45.541765388Z"
+generated: "2023-02-24T23:36:18.317838409Z"
